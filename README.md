@@ -8,8 +8,20 @@
     </span>
 </div>
 <div id="header" align="right">
-    <img src="https://media4.giphy.com/media/JO9WCVmDMbC0eLSlyV/200.webp?cid=ecf05e47xkitcp0hbiu4kc267bhmxbab429o3ywk7dwlk9hr&ep=v1_gifs_search&rid=200.webp&ct=g" width="200" />
+    <img src="https://media4.giphy.com/media/JO9WCVmDMbC0eLSlyV/200.webp?cid=ecf05e47xkitcp0hbiu4kc267bhmxbab429o3ywk7dwlk9hr&ep=v1_gifs_search&rid=200.webp&ct=g" width="300" />
 </div>
+Acerca de mi:
+	Hábil para resolver problemas.
+	De pensamiento lógico y analítico. 
+	Me gusta aprender.
+	Atento siempre a los detalles.
+	Trabajo en equipo. 
+	Creativo.
+	Organizado.
+	Me adapto a las condiciones.
+	Curioso.
+	Respeto las normas. 
+	Buen administrador del tiempo.
 
 <!--
 **JoseVilchez2023/JoseVilchez2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
