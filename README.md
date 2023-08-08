@@ -8,7 +8,7 @@
     </span>
 </div>
 <div id="header" align="center">
-    <img src="background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20220509/pngtree-vector-background-in-the-concept-of-technology-image_1344201.jpg');" width="200" />
+    <img src='https://png.pngtree.com/thumb_back/fw800/background/20220509/pngtree-vector-background-in-the-concept-of-technology-image_1344201.jpg';" width="200" />
 </div>
 
 <!--
