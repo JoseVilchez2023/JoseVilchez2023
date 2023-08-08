@@ -7,8 +7,8 @@
         <h3 align="center">Programador altamente competente y con pasión por el desarrollo de soluciones innovadoras y eficientes.    </h3>
     </span>
 </div>
-<div id="header" align="right" font-family= "sans-serif">
-    <img src="https://media4.giphy.com/media/JO9WCVmDMbC0eLSlyV/200.webp?cid=ecf05e47xkitcp0hbiu4kc267bhmxbab429o3ywk7dwlk9hr&ep=v1_gifs_search&rid=200.webp&ct=g" width="300" />
+<div id="header" font-family= "sans-serif">
+    <img src="https://media4.giphy.com/media/JO9WCVmDMbC0eLSlyV/200.webp?cid=ecf05e47xkitcp0hbiu4kc267bhmxbab429o3ywk7dwlk9hr&ep=v1_gifs_search&rid=200.webp&ct=g" width="300" align="right" />
     <h1>Acerca de mi:</h1>
     <p>*Hábil para resolver problemas.</p>
     <p>*De pensamiento lógico y analítico.</p>
