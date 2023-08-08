@@ -8,7 +8,7 @@
     </span>
 </div>
 <div id="header" align="right">
-    <img src="['https://png.pngtree.com/thumb_back/fw800/background/20220509/pngtree-vector-background-in-the-concept-of-technology-image_1344201.jpg';](https://media4.giphy.com/media/JO9WCVmDMbC0eLSlyV/200.webp?cid=ecf05e47xkitcp0hbiu4kc267bhmxbab429o3ywk7dwlk9hr&ep=v1_gifs_search&rid=200.webp&ct=g)" width="300" />
+    <img src="https://media4.giphy.com/media/JO9WCVmDMbC0eLSlyV/200.webp?cid=ecf05e47xkitcp0hbiu4kc267bhmxbab429o3ywk7dwlk9hr&ep=v1_gifs_search&rid=200.webp&ct=g" width="200" />
 </div>
 
 <!--
