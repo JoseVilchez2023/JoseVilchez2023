@@ -27,6 +27,9 @@
     <h1>Lenguajes</h1>
         <div>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="Visual Studio Code" alt="Visual Studio Code" width= 40 height=40>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HTML_logo.png/250px-HTML_logo.png" title="HTML" alt="HTML" width= 40 height=40>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png" title="CSS" alt="CSS" width= 40 height=40>
+            <img src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png" title="javascript" alt="javascript" width= 40 height=40>
         </div>
 </div>
 <!--
