@@ -23,7 +23,12 @@
     <p>*Respeto las normas.</p> 
     <p>*Buen administrador del tiempo.</p>
 </div>
-
+<div align="left">
+    <h1>Lenguajes</h1>
+        <div>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="Visual Studio Code" alt="Visual Studio Code" width= 40 height=40>
+        </div>
+</div>
 <!--
 **JoseVilchez2023/JoseVilchez2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
