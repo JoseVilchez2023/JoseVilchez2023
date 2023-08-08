@@ -8,9 +8,7 @@
     </span>
 </div>
 <div id="header" font-family= "sans-serif">
-    <img src="https://media4.giphy.com/media/JO9WCVmDMbC0eLSlyV/200.webp?cid=ecf05e47xkitcp0hbiu4kc267bhmxbab429o3ywk7dwlk9hr&ep=v1_gifs_search&rid=200.webp&ct=g" width="400" align="right" margin-top="200px"/>
-    <h1>Acerca de mi:</h1>
-    <p>*Hábil para resolver problemas.</p>
+     <p>*Hábil para resolver problemas.</p>
     <p>*De pensamiento lógico y analítico.</p>
     <p>*Me gusta aprender.</p>
     <p>*Atento siempre a los detalles.</p>
@@ -21,6 +19,8 @@
     <p>*Curioso.</p>
     <p>*Respeto las normas.</p> 
     <p>*Buen administrador del tiempo.</p>
+    <img src="https://media4.giphy.com/media/JO9WCVmDMbC0eLSlyV/200.webp?cid=ecf05e47xkitcp0hbiu4kc267bhmxbab429o3ywk7dwlk9hr&ep=v1_gifs_search&rid=200.webp&ct=g" width="400" align="right"/>
+    <h1>Acerca de mi:</h1>
 </div>
 
 <!--
