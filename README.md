@@ -28,8 +28,8 @@
         <div>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="Visual Studio Code" alt="Visual Studio Code" width= 40 height=40>
             <img src="https://img.freepik.com/iconos-gratis/html-5_318-674234.jpg" title="HTML" alt="HTML" width= 40 height=40>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png" title="CSS" alt="CSS" width= 35 height=40>
-            <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" title="javascript" alt="javascript" width= 40 height=40>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png" title="CSS" alt="CSS" width= 40 height=40>
+            <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" title="javascript" alt="javascript" width= 60 height=40>
         </div>
 </div>
 <!--
