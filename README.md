@@ -7,11 +7,9 @@
         <h3 align="center">Programador altamente competente y con pasión por el desarrollo de soluciones innovadoras y eficientes.    </h3>
     </span>
 </div>
-# ¡Hola! 👋
-<body style="background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20220509/pngtree-vector-background-in-the-concept-of-technology-image_1344201.jpg');"
-Soy [Tu Nombre], un apasionado por [tus intereses/habilidades]. Actualmente trabajo en [tu trabajo actual o proyecto]. En mi tiempo libre, me gusta [tus hobbies/actividades]. Siempre estoy emocionado por [lo que te emociona o tus metas futuras].
+<body style="background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20220509/pngtree-vector-background-in-the-concept-of-technology-image_1344201.jpg');">
 </body>
-¡No dudes en conectarte conmigo en [enlaces a tus redes sociales]!
+
 <!--
 **JoseVilchez2023/JoseVilchez2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
